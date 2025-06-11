@@ -39,7 +39,7 @@ export function Header() {
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#005EB8] text-white font-bold shadow-sm">
               e+
             </div>
-            <span className="text-xl font-bold text-[#005EB8]">eSIM Plus</span>
+            <span className="text-xl font-bold text-[#005EB8]">Mobile eSIM</span>
           </Link>
         </div>
         <nav className="hidden md:flex items-center">

@@ -8,7 +8,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "eSIM Plus - Global Connectivity Without Physical SIM Cards",
+  title: "Lit Mobile eSIM - Global Connectivity Without Physical SIM Cards",
   description:
     "Experience seamless global connectivity with eSIM Plus. Activate eSIMs instantly for 200+ countries with no physical SIM cards needed.",
     generator: 'v0.dev'

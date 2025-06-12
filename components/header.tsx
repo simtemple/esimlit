@@ -37,7 +37,7 @@ export function Header() {
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center gap-2 transition-transform hover:scale-105">
             <div className="flex h-8 w-8 items-center justify-center rounded-full bg-[#005EB8] text-white font-bold shadow-sm">
-              e+
+              Lit
             </div>
             <span className="text-xl font-bold text-[#005EB8]">Mobile eSIM</span>
           </Link>

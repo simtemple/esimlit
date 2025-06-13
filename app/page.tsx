@@ -33,7 +33,7 @@ export default function Home() {
               <div className="relative w-full max-w-md">
                 <div className="absolute inset-0 bg-white/10 rounded-3xl blur-xl"></div>
                 <img
-                  src="/connect-smartphone.png"
+                  src="/global-connect-smartphone.png"
                   alt="eSIM Global Connectivity"
                   className="relative z-10 w-full h-auto rounded-2xl"
                 />

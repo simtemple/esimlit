@@ -16,7 +16,7 @@ url: "https://litmobile.net",
 siteName: "Litmobile",
 	
       
-images: [
+img: [
 			{
 				url: "/og.png"
 			},

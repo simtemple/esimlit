@@ -11,7 +11,10 @@ export const metadata = {
   title: "Lit Mobile eSIM - Global Connectivity Without Physical SIM Cards",
   description:
     "Experience seamless global connectivity with eSIM Plus. Activate eSIMs instantly for 200+ countries with no physical SIM cards needed.",
-    generator: 'v0.dev'
+    generator: 'v0.dev',
+url: "https://litmobile.net",
+siteName: "Litmobile",
+	
       
 images: [
 			{

@@ -211,7 +211,7 @@ export default function Home() {
       <section className="py-20 px-4 md:px-6 lg:px-8 bg-white">
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-[#005EB8] mb-4">How eSIM Plus Works</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-[#005EB8] mb-4">How Lit Mobile eSIM Works</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">Get connected in three simple steps</p>
           </div>
 
@@ -256,7 +256,7 @@ export default function Home() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Connect Globally?</h2>
               <p className="text-lg text-white/90 mb-8">
-                Join thousands of satisfied travelers and businesses who trust Lit mobile for their connectivity needs.
+                Join thousands of satisfied travelers and businesses who trust Lit mobile eSIM for their connectivity needs.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" asChild className="bg-white text-[#005EB8] hover:bg-[#E6E6E6]">
@@ -289,7 +289,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">eSIM Plus</h3>
+              <h3 className="text-xl font-bold mb-4">Lit Mobile eSIM</h3>
               <p className="text-gray-400 mb-4">
                 Seamlessly connect anytime, anywhere with our global eSIM technology.
               </p>

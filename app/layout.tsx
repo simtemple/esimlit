@@ -12,6 +12,13 @@ export const metadata = {
   description:
     "Experience seamless global connectivity with eSIM Plus. Activate eSIMs instantly for 200+ countries with no physical SIM cards needed.",
     generator: 'v0.dev'
+      
+images: [
+			{
+				url: "/images/og.png"
+			},
+		],
+  
 }
 
 export default function RootLayout({

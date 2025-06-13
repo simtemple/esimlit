@@ -18,7 +18,7 @@ siteName: "Litmobile",
       
 images: [
 			{
-				url: "/images/og.png"
+				url: "/og.png"
 			},
 		],
   

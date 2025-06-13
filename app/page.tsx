@@ -256,7 +256,7 @@ export default function Home() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Connect Globally?</h2>
               <p className="text-lg text-white/90 mb-8">
-                Join thousands of satisfied travelers and businesses who trust eSIM Plus for their connectivity needs.
+                Join thousands of satisfied travelers and businesses who trust Lit mobile for their connectivity needs.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" asChild className="bg-white text-[#005EB8] hover:bg-[#E6E6E6]">
@@ -346,7 +346,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">&copy; {new Date().getFullYear()} eSIM Plus. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">&copy; {new Date().getFullYear()} Lit Mobile. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white text-sm">
                 Privacy Policy
